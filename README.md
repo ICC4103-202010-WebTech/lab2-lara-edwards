@@ -1,5 +1,9 @@
 # README
 
+Members:
+- Cristobal Lara
+- Jose Lira
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
